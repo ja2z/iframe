@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+This purpose of this project is to build a Sigma plugin that renders an iframe. There is a separate react file for theh iframe component.
+
+In the configuration panel there are two dropdown selectors :
+1. urlControl
+2. nodeIdControl
